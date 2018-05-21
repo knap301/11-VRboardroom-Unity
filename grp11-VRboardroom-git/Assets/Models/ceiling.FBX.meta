@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 00cc844259bfca642bc20bdb5eb854f1
+timeCreated: 1526906942
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arc001
+    100002: //RootNode
+    100004: chair
+    100006: Door
+    100008: Lamp.001
+    100010: Line001
+    100012: Room
+    100014: Sun
+    100016: Windows
+    400000: Arc001
+    400002: //RootNode
+    400004: chair
+    400006: Door
+    400008: Lamp.001
+    400010: Line001
+    400012: Room
+    400014: Sun
+    400016: Windows
+    2100000: Door
+    2100002: Glass
+    2100004: glass
+    2100006: Stripe
+    2100008: Wall
+    2100010: Floor
+    2100012: ArmChair_Leather
+    2100014: ArmChair_Plastic
+    2100016: ArmChair_Metal_Chrome
+    2100018: No Name
+    2300000: chair
+    2300002: Door
+    2300004: Line001
+    2300006: Room
+    2300008: Windows
+    3300000: chair
+    3300002: Door
+    3300004: Line001
+    3300006: Room
+    3300008: Windows
+    4300000: Door
+    4300002: Windows
+    4300004: Room
+    4300006: chair
+    4300008: Line001
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Lamp.001
+    10800002: Sun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
